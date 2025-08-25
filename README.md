@@ -19,17 +19,20 @@ Frontend aplikasi **DRX Roadmap** dibuat menggunakan:
 ## 🚀 Cara Menjalankan (Local Development)
 
 1. Clone repository:
+
    ```bash
-   git clone https://github.com/username/drx-roadmap.git
+   git clone https://github.com/hilmanm011/react-vite-tailwind-roadmap.git
    cd drx-roadmap
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Jalankan project:
+
    ```bash
    npm run dev
    ```
@@ -44,6 +47,7 @@ Frontend aplikasi **DRX Roadmap** dibuat menggunakan:
 ## 🐳 Menjalankan dengan Docker
 
 1. Build container:
+
    ```bash
    docker compose up --build
    ```
@@ -58,11 +62,13 @@ Frontend aplikasi **DRX Roadmap** dibuat menggunakan:
 ## 🏗️ Build untuk Production
 
 1. Build project:
+
    ```bash
    npm run build
    ```
 
 2. Preview hasil build:
+
    ```bash
    npm run preview
    ```
